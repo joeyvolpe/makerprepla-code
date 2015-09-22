@@ -1,0 +1,44 @@
+#big-container {
+  display: flex;
+}
+
+.container {
+  background-color: olive;
+  padding: 10px;
+  width: 14%;
+}
+
+#signup {
+  color: white;
+  margin-bottom: 10px;
+}
+
+#contact {
+  color:white;
+  margin-bottom: 10px;
+}
+
+#survey {
+  color: white;
+  margin-bottom: 10px;
+}
+
+#first-div {
+  background-color: tomato;
+  padding: 10px;
+}
+
+#second-div {
+  background-color: goldenrod;
+  padding: 10px;
+}
+
+#third-div {
+  background-color: cornflowerblue;
+  padding: 10px;
+}
+
+#fourth-div {
+  background-color: white;
+  padding: 10px;
+}
